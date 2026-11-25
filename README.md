@@ -60,11 +60,11 @@ The application focuses on using **AI technology to make learning more personali
 
 **Tech:** React.js • Node.js • Express.js • MongoDB • AI
 
-### 🛒 Full-Stack Product Application
+### 🤖 AVNI-2.2
 
-A full-stack application for submitting and managing product data with image upload functionality.
+Autonomous Voice Neural Intelligence | control the PC through the voice command.
 
-**Tech:** React.js • Node.js • Mongoose • MongoDB
+**Tech:** Python • Tkinter • Gemini API
 
 ---
 
