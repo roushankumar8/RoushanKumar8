@@ -2,7 +2,7 @@
   👋 Hi, I'm Roushan Kumar
 </h1>
 
-### 💻 Information Technology Student | Full-Stack Developer | DSA Learner
+### 💻 Information Technology Student | Full-Stack Developer & Data Analyst | DSA Learner
 
 I'm an **Information Technology student** passionate about **web development, problem solving, AI, and building real-world applications**.
 Currently, I'm improving my skills in **Data Structures & Algorithms, React, Node.js, Python, and backend development**.
@@ -12,7 +12,7 @@ Currently, I'm improving my skills in **Data Structures & Algorithms, React, Nod
 ## 🚀 About Me
 
 * 🎓 Information Technology Student
-* 💻 Full-Stack Developer | 🤖 AI Enthusiast
+* 💻 Full-Stack Developer & Data Analyst | 🤖 AI Enthusiast
 * 🧠 Learning **DSA & Python**
 * ⚛️ React.js • Node.js • MongoDB
 * 🎯 Preparing for **Software Development Placements**
